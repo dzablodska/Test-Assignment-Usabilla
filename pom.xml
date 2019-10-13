@@ -19,6 +19,10 @@
         <tags></tags>
         <parallel.tests>4</parallel.tests>
         <webdriver.base.url></webdriver.base.url>
+        <restart.browser.each>SCENARIO</restart.browser.each>
+        <restart.browser.each.scenario>true</restart.browser.each.scenario>
+
+
     </properties>
 
     <repositories>
